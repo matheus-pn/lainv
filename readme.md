@@ -1,6 +1,8 @@
 <h1> What's this? </h1>
 
-lainv is a very very very simple image viewer for the terminal
+Lainv is a very very very simple image viewer for the terminal
+
+![Lainv running](https://i.imgur.com/GEkSpNv.png)
 
 <h2> How to build </h2>
 
