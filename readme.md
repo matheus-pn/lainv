@@ -15,3 +15,7 @@ gcc main.c -lncurses -lm -o lainv
 ```
 lainv image.jpg
 ```
+
+<h2> Contributing </h2>
+
+Please
