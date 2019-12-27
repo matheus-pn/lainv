@@ -7,6 +7,8 @@ Lainv is a simple text-based image viewer for the terminal enviroment
 * 8-bit color
 * zoom in/out
 
+<h2>Examples</h2>
+
 <h3>Map<h3>
   
 ![Colors!!](https://i.imgur.com/PwvSHNd.png)
