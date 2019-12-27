@@ -1,8 +1,19 @@
 <h1> What's this? </h1>
 
-Lainv is a very very very simple image viewer for the terminal
+Lainv is a text-based simple image viewer for the terminal enviroment
 
-![Lainv running](https://i.imgur.com/GEkSpNv.png)
+<h3>Features:</h3>
+
+* 8-bit color
+* zoom in/out
+
+<h3>World map:<h3>
+  
+![Colors!!](https://i.imgur.com/PwvSHNd.png)
+
+  <h3>Lain!!</h3>
+  
+![Lain!!](https://i.imgur.com/scUcd41.png)
 
 <h2> How to build </h2>
 
